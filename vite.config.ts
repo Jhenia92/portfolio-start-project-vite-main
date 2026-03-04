@@ -14,5 +14,4 @@ export default defineConfig({
       "@": "/src",
     },
   },
-  base: '/portfolio-start-project-vite-main/'
 });
