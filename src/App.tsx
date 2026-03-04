@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <Title>Welcome to IT-INCUBATOR</Title>
       <StyledBtn>Hello</StyledBtn>
+      Deploy ready
     </div>
   );
 }
